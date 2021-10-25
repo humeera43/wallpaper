@@ -1,0 +1,90 @@
+{
+  "redirect" : {
+
+"JSON_POPUP_WAIT" : "Server Ready - Wallpaper ",
+
+"MODE_NO_ADS" : true,
+"MODE_BACKUP_ADS" : false,
+
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+//     * mode pengaturan iklan
+//     * Mode ADMOB       Admob backup Unity Backup Startapp
+//     * Mode FAN         FAN backup Unity Backup Startapp
+//     * Mode APPODEAL    Appodeal backup Unity Backup Startapp
+//     * Mode UNITY       Unity backup Startapp
+//     * Mode APPLOVIN    Applovin backup Unity Backup Startapp
+//     * Mode TAPDAQ    TAPDAQ backup Unity Backup Startapp
+
+"PENGATURAN_IKLAN_BANNER" : "ADMOB",
+"PENGATURAN_IKLAN_INTER" : "ADMOB",
+"PENGATURAN_IKLAN_NATIVE" : "ADMOB",
+
+"INTERS_COUNT_WEB" : 5,
+
+"ENABLE_STRAP" : true,
+"ENABLE_STRAP_SPLAHSCREEN" : true,
+"ADS_ON_EXIT_DIALOG" : true, // CTR NAIK PESAT
+
+"STARAPPID" : "209379122",
+
+"ADMOB_BANNER" : "ca-app-pub-9804721901768342/6216180799",
+"ADMOB_INTER" : "ca-app-pub-9804721901768342/3590017452",
+"ADMOB_NATIV" : "ca-app-pub-9804721901768342/7337690770",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "inter",
+"UNITY_GAME_ID" : "4114625",
+"UNITY_TEST_MODE" : false,
+
+"APPLOVIN_BANNER_ID" : "ISIAN",
+"APPLOVIN_INTERSTITIAL_ID" : "ISIAN",
+
+"HPK_ALIENDROID" : "kuota data 30gb",
+"HPK_ADMOB1" : "Kuota Data",
+"HPK_ADMOB2" : "bank jenius",
+"HPK_ADMOB3" : "bank jago",
+"HPK_ADMOB4" : "telkomsel",
+"HPK_ADMOB5" : "donasi",
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"TAPDAQ_APP_ID" : "6120a5b008fe6c2d735d6a78",
+"TAPDAQ_CLIENT_KEY" : "fb5af849-b396-473b-a139-eecc9c3a4716",
+
+"BUTTON_RATING" : "RATING",
+"BUTTON_SHARE" : "SHARE TO FRIEND",
+"BUTTON_START" : "START",
+
+"EXIT_POPUP_DIALOG" : "
+
+if you enjoy this app
+
+help us with a 5 star rating
+
+click the rating button
+
+",
+"RATE_BUTTON" : "RATING 5 STARS",
+"LATER_BUTTON" : "LATER",
+"ENABLE_SHARE_BUTTON" : true,
+"SHARE_TXT" : "
+wow this app is really good
+I've tried
+try to download now too
+",
+"MORE_BUTTON" : "SHARE VIA WHATSAPP",
+"URL_MORE_APPS" : "https://play.google.com/store/apps/details?id=com.gevarieldev.godzillawallpaper",
+
+"REDIRECT_TRAFFIC" : false,
+"LINK_REDIRECT" : "https://play.google.com/store/apps/details?id=com.gevarieldev.godzillawallpaper"
+
+
+  }
+}
+
+
